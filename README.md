@@ -80,13 +80,13 @@ $ pip install pyTelegramBotAPI
 * Installation from source (requires git):
 
 ```
-$ git clone https://github.com/eternnoir/pyTelegramBotAPI.git
+$ git clone https://github.com/trhacknon/pyTelegramBotAPI.git
 $ cd pyTelegramBotAPI
 $ python setup.py install
 ```
 or:
 ```
-$ pip install git+https://github.com/eternnoir/pyTelegramBotAPI.git
+$ pip install git+https://github.com/trhacknon/pyTelegramBotAPI.git
 ```
 
 It is generally recommended to use the first option.
